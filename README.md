@@ -1,2 +1,2 @@
 # WoC_Gunjan_Haldar
-WoC-implementing various algorithms on MNIST Dataset
+Implementing basic structure and models on basic datasets
